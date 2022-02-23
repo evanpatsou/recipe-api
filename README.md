@@ -1,2 +1,2 @@
-# recipe-api
-Django - TDD - Travis - Docker - REST API  project
+# recipe-app-api
+Recipe app api source code.
